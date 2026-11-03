@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #1e293b;
+  font-family: system-ui, sans-serif;
+}
+
+.targeta {
+  background: white;
+  max-width: 420px;
+  margin: 20px;
+  padding: 30px;
+  border-radius: 16px;
+  text-align: center;
+}
+
+.avatar {
+  font-size: 64px;
+}
+
+.subtitol {
+  color: #64748b;
+}
+
+ul {
+  text-align: left;
+}
+
+.boto {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #2563eb;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+}
